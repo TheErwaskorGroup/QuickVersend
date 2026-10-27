@@ -1,11 +1,5 @@
 # Introducing UltraNav!
 
-[![CI status][ci-badge]][ci-workflow]
-[![Translations][translate-badge]][translate-link]
-[![Packaging status][packaging-badge]][packaging-link]
-
-[homepage]: *comming soon*
-
 
 UltraNav is a Free and Open Source Fork from LocalSend making it a Alternative and semi different type with planned features
 
