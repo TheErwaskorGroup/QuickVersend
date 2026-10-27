@@ -9,3 +9,5 @@ UltraNav is a Free and Open Source Fork from LocalSend making it a Alternative a
 This Project is the first Among MixOS (Custom ROM), and Yandere Commando
 
 for Further information regarding the LocalSend Engine behind UltraNav Please reffer to the official build: https://github.com/localsend/localsend
+
+A POC (Proof of Concept) APK is Avaialable (Only changes are Version and Package name!)
